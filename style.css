@@ -122,7 +122,7 @@ a:hover{
 @media (min-width: 300px) and (max-width: 800px) {
     body{
         background-image: url(./img/pattern-background-mobile.svg);
-        background-size: 220vh 30vw;
+        background-size: 60vh 80vw;
     }
 
     .order {
