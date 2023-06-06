@@ -27,7 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./img/screencapture-order-summary-adderreth-netlify-app-2023-06-06-02_40_17)
+![](./img/screencapture-order-summary-adderreth-netlify-app-2023-06-06-02_32_51)
+
 
 
 
